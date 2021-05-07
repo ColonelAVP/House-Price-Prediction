@@ -1,2 +1,2 @@
 # Linear-Regression
-Projects related Linear regression
+## Project related Linear regression
