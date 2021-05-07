@@ -1,3 +1,3 @@
-# Linear-Regression
-###### > Project related Linear regression
+# Linear-Regression:
+>Project related Linear regression
 ## Real Estate price prediction
