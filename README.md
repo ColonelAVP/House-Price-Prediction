@@ -1,6 +1,6 @@
 # Real Estate price prediction project
 ## **Description**
-Creating a Machine Learning model to predict theReal estate prices. We are going to use the dataset from Kaggle.com.
+Creating a Machine Learning model to predict the real estate prices. We are going to use the dataset from Kaggle.com.
 
 Concept Used in this project:
 * Linear Regression
@@ -18,9 +18,9 @@ Tools and Technology used:
 #Step3: Understanding Data
        - drop unnecessary columns
 #Step4: Data Cleaning
-       - Check for na values
-       - Verify unique values
-       - Extract Rows and columns
+       - check for nan values
+       - verify unique values
+       - extract rows and columns
 #Step5: Visualizing Data
        - visualizing relationship Between X axes and Y axes
 #Step6: Build Machine Learning Model
