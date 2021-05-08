@@ -18,11 +18,11 @@ Tools and Technology used:
 #Step3: Understanding Data
        - drop unnecessary columns
 #Step4: Data Cleaning
-       - check for nan values
+       - check nan values
        - verify unique values
        - extract rows and columns
 #Step5: Visualizing Data
-       - visualizing relationship Between X axes and Y axes
+       - visualizing relationship between X-axes and Y-axes
 #Step6: Build Machine Learning Model
 #Step7: Testing Results
 #Step8: Evaluating Model using R-Square
