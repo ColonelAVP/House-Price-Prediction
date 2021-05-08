@@ -1,7 +1,8 @@
-# Linear-Regression:
+# Linear-Regression
 >Project related Linear regression
 ## Real Estate price prediction
-## TO DO TASKS
-[]Documenting project
+**Description**
 
-[]Making project ready
+
+
+
