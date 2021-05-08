@@ -31,7 +31,7 @@ Tools and Technology used:
 ## **Dataset Reference**
 [Real Estate Price Prediction](https://www.kaggle.com/ravikishore/real-estate-price-prediction)
 
-I have also uploaded the csv file in this repositery [Real_estate.csv](https://github.com/ColonelAVP/Linear-Regression/blob/master/Real_Estate.csv)
+I have also uploaded the csv file in this repository [Real_estate.csv](https://github.com/ColonelAVP/Linear-Regression/blob/master/Real_Estate.csv)
 
 
 
