@@ -29,7 +29,8 @@ Tools and Technology used:
 #Step9: Plotting Final Graph on Actual vs Predicted results
 ```
 ## **Dataset Reference**
-[GOTO](https://www.kaggle.com/ravikishore/real-estate-price-prediction)
+[Real Estate Price Prediction](https://www.kaggle.com/ravikishore/real-estate-price-prediction)
+I have also uploaded the csv file in this repositery [Real_estate.csv](https://github.com/ColonelAVP/Linear-Regression/blob/master/Real_Estate.csv)
 
 
 
