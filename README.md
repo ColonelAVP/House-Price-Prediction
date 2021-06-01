@@ -1,17 +1,17 @@
-# Real Estate price prediction project
-## **Description**
+# 📌 Real-Estate-price-prediction 
+## ▶️ Introduction
 Creating a Machine Learning model to predict the real estate prices. We are going to use the dataset from **Kaggle.com**.
 
-Concept Used in this project:
+>Concept Used in this project:
 * Linear Regression
 
-Tools and Technology used:
+>Tools and Technology used:
 * Python
 * Numpy and Pandas for data cleaning
 * Matplotlib and seaborn for data visualization
 * sklearn for model building
 
-## **Steps**
+## ▶️ Steps
 ```Python
 #Step1: Importing the required libraries
 #Step2: Load Data
@@ -28,8 +28,8 @@ Tools and Technology used:
 #Step8: Evaluating Model using R-Square
 #Step9: Plotting Final Graph on Actual vs Predicted results
 ```
-## **Dataset Reference**
-[Real Estate Price Prediction](https://www.kaggle.com/ravikishore/real-estate-price-prediction)
+## ▶️ Reference
+Dataset used in this project [Real Estate Price Prediction](https://www.kaggle.com/ravikishore/real-estate-price-prediction)
 
 I have also uploaded the csv file in this repository [Real_estate.csv](https://github.com/ColonelAVP/Linear-Regression/blob/master/Real_Estate.csv)
 
