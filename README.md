@@ -1,4 +1,4 @@
-# 📌 Real-Estate-price-prediction 
+# 📌 House-price-prediction 
 ## ▶️ Introduction
 Creating a Machine Learning model to predict the real estate prices. We are going to use the dataset from **Kaggle.com**.
 
